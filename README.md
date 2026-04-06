@@ -1,2 +1,1 @@
-# aula_git
-aula_git
+minha primeira versao
